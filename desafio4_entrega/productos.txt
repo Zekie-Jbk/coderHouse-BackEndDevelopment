@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Escuadra",
+    "precio": 323.45,
+    "id": 1
+  },
+  {
+    "nombre": "Transportador",
+    "precio": 250.20,
+    "id": 2
+  },
+  {
+    "nombre": "Calculadora",
+    "precio": 234.56,
+    "id": 3
+  }
+]
